@@ -60,17 +60,17 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11392}
+      Script: {instanceID: 11394}
     - Class: 114
-      Script: {instanceID: 11820}
+      Script: {instanceID: 11822}
     - Class: 114
-      Script: {instanceID: 12064}
+      Script: {instanceID: 12066}
     - Class: 114
-      Script: {instanceID: 12342}
+      Script: {instanceID: 12344}
     - Class: 114
-      Script: {instanceID: 12562}
+      Script: {instanceID: 12564}
     - Class: 114
-      Script: {instanceID: 14598}
+      Script: {instanceID: 12730}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -368,6 +368,12 @@ ScriptsOnlyBuild:
     className: RemoteTestResultSender
   - hash:
       serializedVersion: 2
+      Hash: 1a0213cda7939340d1cf829132ac7f5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CheeseAdvance
+  - hash:
+      serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -594,13 +600,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 1a0213cda7939340d1cf829132ac7f5e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CheeseAdvance
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Shkolnik/ISP Unity Book with Code/DioramaSubmission/TreeOfLife.apk
+  playerPath: C:/Shkolnik/ISP Unity Book with Code/DioramaSubmission/SuchIsLife.apk
